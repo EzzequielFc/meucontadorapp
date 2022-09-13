@@ -35,7 +35,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 # Clone o repositório
 git clone https://github.com/EzzequielFc/meucontadorapp.git
 # Acesse a pasta do projeto
-cd rockethelp
+cd counter
 # Instale as dependências
 expo install
 # Execute a aplicação
