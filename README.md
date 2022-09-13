@@ -33,7 +33,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/viniciussgp/rockethelp.git
+git clone https://github.com/EzzequielFc/meucontadorapp.git
 # Acesse a pasta do projeto
 cd rockethelp
 # Instale as dependências
@@ -43,4 +43,4 @@ expo start
 ```
 
 
-Feito com 💚 por [Ezequiel Campos](https://github.com/viniciussgp)
+Feito com 💚 por [Ezequiel Campos](https://github.com/EzzequielFc)
